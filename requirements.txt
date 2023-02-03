@@ -1,0 +1,16 @@
+cython
+scipy
+shapely
+timm
+h5py
+submitit
+scikit-image
+gdown 
+einops
+spacy
+ftfy
+transformers
+torch
+torchvision
+gpustat 
+wandb 

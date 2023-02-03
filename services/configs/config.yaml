@@ -1,0 +1,6 @@
+ADDRESS: 0.0.0.0
+APP:
+  PORT: 20690
+  MODEL:
+    CONFIG: /home/vbs2/thesis/VLFormer/out/RefCOCO+_RN101_bs8_100k/config.yaml
+    WEIGHT: /home/vbs2/thesis/VLFormer/out/RefCOCO+_RN101_bs8_100k/model_final.pth

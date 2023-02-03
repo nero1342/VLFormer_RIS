@@ -1,0 +1,1 @@
+python train_net_video.py --config-file configs/refcoco/VLFormer_R101_bs8_100k.yaml --num-gpus 2 OUTPUT_DIR output/refcoco_R101_bs8_100k
